@@ -1,0 +1,16 @@
+Plot file "C:\Users\Sneha Reddy\Desktop\Project\Automated lighting\gerber\Automated lighting-F_Cu.gbr" created.
+Plot file "C:\Users\Sneha Reddy\Desktop\Project\Automated lighting\gerber\Automated lighting-F_Paste.gbr" created.
+Plot file "C:\Users\Sneha Reddy\Desktop\Project\Automated lighting\gerber\Automated lighting-F_SilkS.gbr" created.
+Plot file "C:\Users\Sneha Reddy\Desktop\Project\Automated lighting\gerber\Automated lighting-F_Mask.gbr" created.
+Plot file "C:\Users\Sneha Reddy\Desktop\Project\Automated lighting\gerber\Automated lighting-Edge_Cuts.gbr" created.
+Plot file "C:\Users\Sneha Reddy\Desktop\Project\Automated lighting\gerber\Automated lighting-F_CrtYd.gbr" created.
+Plot file "C:\Users\Sneha Reddy\Desktop\Project\Automated lighting\gerber\Automated lighting-F_Fab.gbr" created.
+Create Gerber job file "C:\Users\Sneha Reddy\Desktop\Project\Automated lighting\gerber\Automated lighting-job.gbrjob"
+Plot file "C:\Users\Sneha Reddy\Desktop\Project\Automated lighting\gerber\Automated lighting-F_Cu.gbr" created.
+Plot file "C:\Users\Sneha Reddy\Desktop\Project\Automated lighting\gerber\Automated lighting-F_Paste.gbr" created.
+Plot file "C:\Users\Sneha Reddy\Desktop\Project\Automated lighting\gerber\Automated lighting-F_SilkS.gbr" created.
+Plot file "C:\Users\Sneha Reddy\Desktop\Project\Automated lighting\gerber\Automated lighting-F_Mask.gbr" created.
+Plot file "C:\Users\Sneha Reddy\Desktop\Project\Automated lighting\gerber\Automated lighting-Edge_Cuts.gbr" created.
+Plot file "C:\Users\Sneha Reddy\Desktop\Project\Automated lighting\gerber\Automated lighting-F_CrtYd.gbr" created.
+Plot file "C:\Users\Sneha Reddy\Desktop\Project\Automated lighting\gerber\Automated lighting-F_Fab.gbr" created.
+Create Gerber job file "C:\Users\Sneha Reddy\Desktop\Project\Automated lighting\gerber\Automated lighting-job.gbrjob"
